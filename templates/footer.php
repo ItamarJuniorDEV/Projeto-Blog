@@ -1,5 +1,5 @@
 <footer>
-  <p>Hora de Codar &copy; 2020</p>
+  <p>Itamar Junior &copy; 2024</p>
 </footer>
 
 
